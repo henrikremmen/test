@@ -17,6 +17,10 @@ function divide(a, b) {
     return a / b;
 }
 
+function isEven(num) {
+    return num % 2 === 0;
+}
+
 // Example usage:
 console.log("Addition: " + add(5, 3));         // Output: 8
 console.log("Subtraction: " + subtract(5, 3)); // Output: 2
