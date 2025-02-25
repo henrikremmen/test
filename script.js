@@ -1,3 +1,5 @@
+
+
 document.addEventListener('DOMContentLoaded', function() {
     var lolElement = document.getElementById('lol');
     if (lolElement) {
@@ -6,3 +8,4 @@ document.addEventListener('DOMContentLoaded', function() {
         });
     }
 });
+
